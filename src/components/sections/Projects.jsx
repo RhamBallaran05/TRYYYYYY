@@ -12,7 +12,8 @@ export const Projects = () => {
   ];
 
   return (
-    <section id="projects" className="min-h-screen bg-black text-gray-100 py-20 px-6 md:px-16 scroll-mt-24">
+    <section id="projects" className="min-h-screen bg-black text-gray-100 py-20 px-6 md:px-16 scroll-mt-24 pt-24 md:pt-32">
+
       <h2 className="text-4xl md:text-5xl font-bold text-center mb-16">
         <b className="text-white">My</b>{" "}
         <span className="text-blue-500">Works</span>

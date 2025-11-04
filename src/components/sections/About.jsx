@@ -3,9 +3,10 @@ import img2 from "../../images/mypicture.jpg";
 export const About = () => {
   return (
     <section
-      id="about"
-      className="min-h-screen flex flex-col items-center justify-center px-6 md:px-16 bg-black text-gray-100 relative overflow-hidden"
-    >
+  id="about"
+  className="min-h-screen flex flex-col items-center justify-center px-6 md:px-16 bg-black text-gray-100 relative overflow-hidden scroll-mt-24 pt-24 md:pt-32"
+>
+
       {/* Heading */}
       <h2 className="text-4xl md:text-5xl font-bold mb-10 text-center">
         About <span className="text-blue-500">Me</span>
